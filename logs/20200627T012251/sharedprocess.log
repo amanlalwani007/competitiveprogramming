@@ -1,0 +1,128 @@
+[2020-06-27 01:22:56.822] [sharedprocess] [info] main {"machineId":"5c35c24281aaff82dc6f6b0a60d628c76a955ff11bf3f5797128ef662e48f926"}
+[2020-06-27 01:23:03.851] [sharedprocess] [info] Deleted from disk johnpapa.vscode-peacock /home/am.lalwani/.vscode/extensions/johnpapa.vscode-peacock-3.1.5
+[2020-06-27 01:23:05.625] [sharedprocess] [info] Deleted from disk pkief.material-icon-theme /home/am.lalwani/.vscode/extensions/pkief.material-icon-theme-3.9.1
+[2020-06-27 01:23:07.078] [sharedprocess] [info] Deleted from disk johnpapa.angular2 /home/am.lalwani/.vscode/extensions/johnpapa.angular2-8.1.1
+[2020-06-27 01:23:07.080] [sharedprocess] [info] Deleted from disk ms-vscode.vscode-typescript-tslint-plugin /home/am.lalwani/.vscode/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.2.2
+[2020-06-27 01:23:07.319] [sharedprocess] [info] Deleted from disk eg2.vscode-npm-script /home/am.lalwani/.vscode/extensions/eg2.vscode-npm-script-0.3.9
+[2020-06-27 01:23:07.322] [sharedprocess] [info] Deleted from disk nrwl.angular-console /home/am.lalwani/.vscode/extensions/nrwl.angular-console-8.1.2
+[2020-06-27 01:23:07.425] [sharedprocess] [info] Deleted from disk ms-vscode.cpptools /home/am.lalwani/.vscode/extensions/ms-vscode.cpptools-0.26.0
+[2020-06-27 01:23:07.429] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode /home/am.lalwani/.vscode/extensions/esbenp.prettier-vscode-2.3.0
+[2020-06-27 01:23:07.429] [sharedprocess] [info] Deleted from disk msjsdiag.debugger-for-chrome /home/am.lalwani/.vscode/extensions/msjsdiag.debugger-for-chrome-4.12.0
+[2020-06-27 01:23:07.448] [sharedprocess] [info] Deleted from disk angular.ng-template /home/am.lalwani/.vscode/extensions/angular.ng-template-0.802.3
+[2020-06-27 01:23:10.088] [sharedprocess] [info] Installing extension: johnpapa.angular-essentials
+[2020-06-27 01:23:10.089] [sharedprocess] [info] Installing extension: johnpapa.vscode-peacock
+[2020-06-27 01:23:10.089] [sharedprocess] [info] Installing extension: johnpapa.winteriscoming
+[2020-06-27 01:23:10.089] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2020-06-27 01:23:10.090] [sharedprocess] [info] Installing extension: nrwl.angular-console
+[2020-06-27 01:23:10.090] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2020-06-27 01:23:12.102] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /tmp/5af4b37e-e0f9-4c4d-87ef-3f5b1bf86ca8
+[2020-06-27 01:23:12.125] [sharedprocess] [info] Downloaded extension: johnpapa.angular-essentials /tmp/0491482a-ed78-49de-892b-2d927388f29c
+[2020-06-27 01:23:12.171] [sharedprocess] [info] Extracted extension to /home/am.lalwani/.vscode/extensions/.johnpapa.angular-essentials-9.0.1: johnpapa.angular-essentials
+[2020-06-27 01:23:12.172] [sharedprocess] [info] Renamed to /home/am.lalwani/.vscode/extensions/johnpapa.angular-essentials-9.0.1
+[2020-06-27 01:23:12.173] [sharedprocess] [info] Installation completed. johnpapa.angular-essentials
+[2020-06-27 01:23:12.460] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/11ade6a1-7d7e-46b1-8d5e-447fe7831e2c
+[2020-06-27 01:23:12.550] [sharedprocess] [info] Installing extension: msjsdiag.debugger-for-edge
+[2020-06-27 01:23:12.691] [sharedprocess] [info] Downloaded extension: johnpapa.vscode-peacock /tmp/3b038fa7-7af0-42fb-9f31-46e54270d471
+[2020-06-27 01:23:12.770] [sharedprocess] [info] Extracted extension to /home/am.lalwani/.vscode/extensions/.johnpapa.vscode-peacock-3.7.2: johnpapa.vscode-peacock
+[2020-06-27 01:23:12.771] [sharedprocess] [info] Renamed to /home/am.lalwani/.vscode/extensions/johnpapa.vscode-peacock-3.7.2
+[2020-06-27 01:23:12.774] [sharedprocess] [info] Installation completed. johnpapa.vscode-peacock
+[2020-06-27 01:23:12.838] [sharedprocess] [info] Extensions installed successfully: johnpapa.vscode-peacock
+[2020-06-27 01:23:12.883] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2020-06-27 01:23:13.188] [sharedprocess] [info] Downloaded extension: johnpapa.winteriscoming /tmp/3b9f6a74-92cd-470d-bbda-8b1b7c9b37f9
+[2020-06-27 01:23:13.475] [sharedprocess] [info] Extracted extension to /home/am.lalwani/.vscode/extensions/.johnpapa.winteriscoming-1.4.3: johnpapa.winteriscoming
+[2020-06-27 01:23:13.475] [sharedprocess] [info] Renamed to /home/am.lalwani/.vscode/extensions/johnpapa.winteriscoming-1.4.3
+[2020-06-27 01:23:13.477] [sharedprocess] [info] Installation completed. johnpapa.winteriscoming
+[2020-06-27 01:23:13.607] [sharedprocess] [info] Extensions installed successfully: johnpapa.winteriscoming
+[2020-06-27 01:23:13.719] [sharedprocess] [info] Downloaded extension: nrwl.angular-console /tmp/ce56439c-9715-49af-96db-caeaa2b650a6
+[2020-06-27 01:23:13.750] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /tmp/a1a0e159-40c2-44ef-bbd2-504a7e488348
+[2020-06-27 01:23:13.800] [sharedprocess] [info] Extracted extension to /home/am.lalwani/.vscode/extensions/.ms-vscode.cpptools-0.27.1: ms-vscode.cpptools
+[2020-06-27 01:23:13.802] [sharedprocess] [info] Renamed to /home/am.lalwani/.vscode/extensions/ms-vscode.cpptools-0.27.1
+[2020-06-27 01:23:13.810] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2020-06-27 01:23:13.869] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2020-06-27 01:23:13.875] [sharedprocess] [info] Extracted extension to /home/am.lalwani/.vscode/extensions/.dbaeumer.vscode-eslint-1.9.1: dbaeumer.vscode-eslint
+[2020-06-27 01:23:13.875] [sharedprocess] [info] Renamed to /home/am.lalwani/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1
+[2020-06-27 01:23:13.877] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2020-06-27 01:23:13.921] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2020-06-27 01:23:14.172] [sharedprocess] [error] Failed to install extension: msjsdiag.debugger-for-edge 
+[2020-06-27 01:23:14.261] [sharedprocess] [info] Uninstalling extension: johnpapa.angular-essentials
+[2020-06-27 01:23:14.267] [sharedprocess] [info] Uninstalling extension: angular.ng-template
+[2020-06-27 01:23:14.268] [sharedprocess] [info] Uninstalling extension: dbaeumer.vscode-eslint
+[2020-06-27 01:23:14.268] [sharedprocess] [info] Uninstalling extension: editorconfig.editorconfig
+[2020-06-27 01:23:14.268] [sharedprocess] [info] Uninstalling extension: eg2.vscode-npm-script
+[2020-06-27 01:23:14.269] [sharedprocess] [info] Uninstalling extension: esbenp.prettier-vscode
+[2020-06-27 01:23:14.269] [sharedprocess] [info] Uninstalling extension: johnpapa.angular2
+[2020-06-27 01:23:14.269] [sharedprocess] [info] Uninstalling extension: johnpapa.vscode-peacock
+[2020-06-27 01:23:14.270] [sharedprocess] [info] Uninstalling extension: johnpapa.winteriscoming
+[2020-06-27 01:23:14.270] [sharedprocess] [info] Uninstalling extension: msjsdiag.debugger-for-chrome
+[2020-06-27 01:23:14.271] [sharedprocess] [info] Uninstalling extension: nrwl.angular-console
+[2020-06-27 01:23:14.271] [sharedprocess] [info] Uninstalling extension: pkief.material-icon-theme
+[2020-06-27 01:23:14.760] [sharedprocess] [info] Extracted extension to /home/am.lalwani/.vscode/extensions/.nrwl.angular-console-12.0.0: nrwl.angular-console
+[2020-06-27 01:23:14.761] [sharedprocess] [info] Renamed to /home/am.lalwani/.vscode/extensions/nrwl.angular-console-12.0.0
+[2020-06-27 01:23:14.762] [sharedprocess] [info] Installation completed. nrwl.angular-console
+[2020-06-27 01:23:14.900] [sharedprocess] [info] Successfully uninstalled extension: angular.ng-template
+[2020-06-27 01:23:14.932] [sharedprocess] [info] Successfully uninstalled extension: dbaeumer.vscode-eslint
+[2020-06-27 01:23:14.960] [sharedprocess] [info] Successfully uninstalled extension: editorconfig.editorconfig
+[2020-06-27 01:23:14.991] [sharedprocess] [info] Successfully uninstalled extension: eg2.vscode-npm-script
+[2020-06-27 01:23:15.019] [sharedprocess] [info] Successfully uninstalled extension: esbenp.prettier-vscode
+[2020-06-27 01:23:15.056] [sharedprocess] [info] Successfully uninstalled extension: johnpapa.angular2
+[2020-06-27 01:23:15.076] [sharedprocess] [info] Extracted extension to /home/am.lalwani/.vscode/extensions/.pkief.material-icon-theme-4.2.0: pkief.material-icon-theme
+[2020-06-27 01:23:15.076] [sharedprocess] [info] Renamed to /home/am.lalwani/.vscode/extensions/pkief.material-icon-theme-4.2.0
+[2020-06-27 01:23:15.077] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2020-06-27 01:23:15.085] [sharedprocess] [info] Successfully uninstalled extension: johnpapa.vscode-peacock
+[2020-06-27 01:23:15.127] [sharedprocess] [info] Successfully uninstalled extension: johnpapa.winteriscoming
+[2020-06-27 01:23:15.144] [sharedprocess] [info] Successfully uninstalled extension: msjsdiag.debugger-for-chrome
+[2020-06-27 01:23:15.169] [sharedprocess] [info] Successfully uninstalled extension: nrwl.angular-console
+[2020-06-27 01:23:15.186] [sharedprocess] [info] Extensions installed successfully: nrwl.angular-console
+[2020-06-27 01:23:15.214] [sharedprocess] [info] Successfully uninstalled extension: pkief.material-icon-theme
+[2020-06-27 01:23:15.246] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme
+[2020-06-27 01:23:16.164] [sharedprocess] [info] Successfully uninstalled extension: johnpapa.angular-essentials
+[2020-06-27 01:23:16.440] [sharedprocess] [error] Failed to install extension: johnpapa.angular-essentials 
+[2020-06-27 01:23:36.811] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-06-27 01:24:23.160] [sharedprocess] [info] Installing extension: vscjava.vscode-java-pack
+[2020-06-27 01:24:24.144] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-pack /tmp/bc3b93e3-ac7d-429d-86eb-96da7544c73a
+[2020-06-27 01:24:24.242] [sharedprocess] [info] Extracted extension to /home/am.lalwani/.vscode/extensions/.vscjava.vscode-java-pack-0.9.1: vscjava.vscode-java-pack
+[2020-06-27 01:24:24.242] [sharedprocess] [info] Renamed to /home/am.lalwani/.vscode/extensions/vscjava.vscode-java-pack-0.9.1
+[2020-06-27 01:24:24.243] [sharedprocess] [info] Installation completed. vscjava.vscode-java-pack
+[2020-06-27 01:24:24.667] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2020-06-27 01:24:24.978] [sharedprocess] [info] Installing extension: vscjava.vscode-java-dependency
+[2020-06-27 01:24:24.984] [sharedprocess] [info] Installing extension: vscjava.vscode-java-debug
+[2020-06-27 01:24:24.988] [sharedprocess] [info] Installing extension: vscjava.vscode-java-test
+[2020-06-27 01:24:25.004] [sharedprocess] [info] Installing extension: vscjava.vscode-maven
+[2020-06-27 01:24:25.011] [sharedprocess] [info] Installing extension: redhat.java
+[2020-06-27 01:24:28.532] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-dependency /tmp/59fab0dc-567b-49fa-bd75-cc846aa7f8ff
+[2020-06-27 01:24:29.107] [sharedprocess] [info] Extracted extension to /home/am.lalwani/.vscode/extensions/.vscjava.vscode-java-dependency-0.8.0: vscjava.vscode-java-dependency
+[2020-06-27 01:24:29.107] [sharedprocess] [info] Renamed to /home/am.lalwani/.vscode/extensions/vscjava.vscode-java-dependency-0.8.0
+[2020-06-27 01:24:29.109] [sharedprocess] [info] Installation completed. vscjava.vscode-java-dependency
+[2020-06-27 01:24:30.858] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-debug /tmp/41e5f212-91db-4ad7-80eb-efee439f3c91
+[2020-06-27 01:24:31.007] [sharedprocess] [info] Extracted extension to /home/am.lalwani/.vscode/extensions/.vscjava.vscode-java-debug-0.23.0: vscjava.vscode-java-debug
+[2020-06-27 01:24:31.007] [sharedprocess] [info] Renamed to /home/am.lalwani/.vscode/extensions/vscjava.vscode-java-debug-0.23.0
+[2020-06-27 01:24:31.009] [sharedprocess] [info] Installation completed. vscjava.vscode-java-debug
+[2020-06-27 01:24:31.051] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-debug
+[2020-06-27 01:24:31.254] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-test /tmp/d2f87bb4-a4da-4e0f-8e01-86bab7e3e01a
+[2020-06-27 01:24:31.431] [sharedprocess] [info] Extracted extension to /home/am.lalwani/.vscode/extensions/.vscjava.vscode-java-test-0.21.0: vscjava.vscode-java-test
+[2020-06-27 01:24:31.431] [sharedprocess] [info] Renamed to /home/am.lalwani/.vscode/extensions/vscjava.vscode-java-test-0.21.0
+[2020-06-27 01:24:31.432] [sharedprocess] [info] Installation completed. vscjava.vscode-java-test
+[2020-06-27 01:24:37.843] [sharedprocess] [info] Downloaded extension: vscjava.vscode-maven /tmp/f07d187e-4f3c-4423-80c6-eced01d12c87
+[2020-06-27 01:24:38.170] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /tmp/44940a8e-55db-42c1-be00-dc3973e145a3
+[2020-06-27 01:24:38.471] [sharedprocess] [info] Extracted extension to /home/am.lalwani/.vscode/extensions/.vscjava.vscode-maven-0.21.0: vscjava.vscode-maven
+[2020-06-27 01:24:38.472] [sharedprocess] [info] Renamed to /home/am.lalwani/.vscode/extensions/vscjava.vscode-maven-0.21.0
+[2020-06-27 01:24:38.475] [sharedprocess] [info] Installation completed. vscjava.vscode-maven
+[2020-06-27 01:24:38.511] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-maven
+[2020-06-27 01:24:39.409] [sharedprocess] [info] Extracted extension to /home/am.lalwani/.vscode/extensions/.visualstudioexptteam.vscodeintellicode-1.2.8: visualstudioexptteam.vscodeintellicode
+[2020-06-27 01:24:39.411] [sharedprocess] [info] Renamed to /home/am.lalwani/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.8
+[2020-06-27 01:24:39.413] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2020-06-27 01:24:39.529] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode
+[2020-06-27 01:24:48.755] [sharedprocess] [info] Downloaded extension: redhat.java /tmp/ca9b8808-037b-42e2-8216-4230a3bcce7c
+[2020-06-27 01:24:49.491] [sharedprocess] [info] Extracted extension to /home/am.lalwani/.vscode/extensions/.redhat.java-0.53.1: redhat.java
+[2020-06-27 01:24:49.491] [sharedprocess] [info] Renamed to /home/am.lalwani/.vscode/extensions/redhat.java-0.53.1
+[2020-06-27 01:24:49.492] [sharedprocess] [info] Installation completed. redhat.java
+[2020-06-27 01:24:49.562] [sharedprocess] [info] Extensions installed successfully: redhat.java
+[2020-06-27 01:24:49.563] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-dependency
+[2020-06-27 01:24:49.563] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-test
+[2020-06-27 01:24:49.564] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-pack
+[2020-06-27 01:25:45.265] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-06-27 01:26:06.215] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/c98f1075-0f23-48eb-8231-1894fe33fb30
+[2020-06-27 01:26:11.186] [sharedprocess] [info] Extracted extension to /home/am.lalwani/.vscode/extensions/.ms-python.python-2019.10.41019: ms-python.python
+[2020-06-27 01:26:11.187] [sharedprocess] [info] Renamed to /home/am.lalwani/.vscode/extensions/ms-python.python-2019.10.41019
+[2020-06-27 01:26:11.192] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-06-27 01:26:11.276] [sharedprocess] [info] Extensions installed successfully: ms-python.python
