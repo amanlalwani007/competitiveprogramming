@@ -18,7 +18,12 @@
 		<link>
 			<name>src/binaryexponent.java</name>
 			<type>1</type>
-			<location>//home/am.lalwani/Desktop/competitiveprogramming/comptitivecodes/binaryexponent.java</location>
+			<location>/home/am.lalwani/Desktop/competitiveprogramming/comptitivecodes/binaryexponent.java</location>
+		</link>
+		<link>
+			<name>src/palindromepermutation.java</name>
+			<type>1</type>
+			<location>//home/am.lalwani/Desktop/competitiveprogramming/comptitivecodes/palindromepermutation.java</location>
 		</link>
 	</linkedResources>
 </projectDescription>

@@ -1,0 +1,28 @@
+[2020-08-06 00:31:30.398] [exthost] [info] extension host started
+[2020-08-06 00:31:30.410] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-08-06 00:31:30.410] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-08-06 00:31:30.509] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-08-06 00:31:30.509] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-08-06 00:31:30.601] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-08-06 00:31:30.601] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2020-08-06 00:31:30.741] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-08-06 00:31:30.741] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-08-06 00:31:30.747] [exthost] [info] ExtensionService#_doActivateExtension nrwl.angular-console {"startup":true,"activationEvent":"*"}
+[2020-08-06 00:31:30.747] [exthost] [info] ExtensionService#loadCommonJSModule /home/am.lalwani/.vscode/extensions/nrwl.angular-console-13.0.0/main.js
+[2020-08-06 00:31:32.150] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2020-08-06 00:31:32.150] [exthost] [info] ExtensionService#loadCommonJSModule /home/am.lalwani/.vscode/extensions/pkief.material-icon-theme-4.2.0/dist/extension
+[2020-08-06 00:31:32.202] [exthost] [info] eager extensions activated
+[2020-08-06 00:31:44.908] [exthost] [info] extension host started
+[2020-08-06 00:31:44.921] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-08-06 00:31:44.921] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-08-06 00:31:44.924] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-08-06 00:31:44.924] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-08-06 00:31:44.971] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-08-06 00:31:44.971] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2020-08-06 00:31:45.081] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-08-06 00:31:45.081] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-08-06 00:31:45.087] [exthost] [info] ExtensionService#_doActivateExtension nrwl.angular-console {"startup":true,"activationEvent":"*"}
+[2020-08-06 00:31:45.087] [exthost] [info] ExtensionService#loadCommonJSModule /home/am.lalwani/.vscode/extensions/nrwl.angular-console-13.0.0/main.js
+[2020-08-06 00:31:46.007] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2020-08-06 00:31:46.007] [exthost] [info] ExtensionService#loadCommonJSModule /home/am.lalwani/.vscode/extensions/pkief.material-icon-theme-4.2.0/dist/extension
+[2020-08-06 00:31:47.139] [exthost] [info] eager extensions activated
