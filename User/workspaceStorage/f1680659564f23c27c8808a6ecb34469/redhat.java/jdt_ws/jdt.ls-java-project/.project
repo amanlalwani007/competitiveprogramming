@@ -16,14 +16,19 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>src/binaryexponent.java</name>
+			<name>src/OneAway.java</name>
 			<type>1</type>
-			<location>/home/am.lalwani/Desktop/competitiveprogramming/comptitivecodes/binaryexponent.java</location>
+			<location>//home/am.lalwani/Desktop/competitiveprogramming/Arrays and Strings/OneAway.java</location>
 		</link>
 		<link>
-			<name>src/palindromepermutation.java</name>
+			<name>src/leftandrightrotation.java</name>
 			<type>1</type>
-			<location>//home/am.lalwani/Desktop/competitiveprogramming/comptitivecodes/palindromepermutation.java</location>
+			<location>//home/am.lalwani/Desktop/competitiveprogramming/Arrays and Strings/leftandrightrotation.java</location>
+		</link>
+		<link>
+			<name>src/rotateimage.java</name>
+			<type>1</type>
+			<location>//home/am.lalwani/Desktop/competitiveprogramming/Arrays and Strings/rotateimage.java</location>
 		</link>
 	</linkedResources>
 </projectDescription>
