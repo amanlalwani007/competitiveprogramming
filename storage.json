@@ -2,7 +2,8 @@
     "telemetry.machineId": "5c35c24281aaff82dc6f6b0a60d628c76a955ff11bf3f5797128ef662e48f926",
     "openedPathsList": {
         "workspaces3": [
-            "file:///home/am.lalwani/Desktop/competitiveprogramming"
+            "file:///home/am.lalwani/Desktop/competitiveprogramming",
+            "file:///home/am.lalwani/PycharmProjects/Basic"
         ],
         "files2": []
     },
@@ -56,6 +57,17 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Desktop/competitiveprogramming"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/am.lalwani/PycharmProjects/Basic",
+                                        "path": "/home/am.lalwani/PycharmProjects/Basic",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/PycharmProjects/Basic"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -553,7 +565,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1385,5 +1398,5 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/home/am.lalwani/Desktop"
+    "pickerWorkingDir": "/home/am.lalwani/PycharmProjects"
 }
