@@ -202,3 +202,97 @@
 [2020-08-10 23:28:12.593] [exthost] [info] ExtensionService#loadCommonJSModule /home/am.lalwani/.vscode/extensions/vscjava.vscode-java-dependency-0.8.0/dist/extension
 [2020-08-10 23:28:12.819] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test {"startup":false,"activationEvent":"onLanguage:java"}
 [2020-08-10 23:28:12.819] [exthost] [info] ExtensionService#loadCommonJSModule /home/am.lalwani/.vscode/extensions/vscjava.vscode-java-test-0.21.0/dist/extension
+[2020-08-10 23:28:16.716] [exthost] [error] [redhat.java] provider FAILED
+[2020-08-10 23:28:16.718] [exthost] [error] Error: The request (id: 8, method: 'textDocument/hover') has been cancelled
+	at /home/am.lalwani/.vscode/extensions/redhat.java-0.53.1/dist/extension.js:1:68555
+	at /home/am.lalwani/.vscode/extensions/redhat.java-0.53.1/dist/extension.js:1:68849
+	at Immediate.module.exports.M.G.Y.size.setImmediate (/home/am.lalwani/.vscode/extensions/redhat.java-0.53.1/dist/extension.js:1:69210)
+	at runCallback (timers.js:694:18)
+	at tryOnImmediate (timers.js:665:5)
+	at processImmediate (timers.js:647:5)
+[2020-08-10 23:30:45.046] [exthost] [error] [redhat.java] provider FAILED
+[2020-08-10 23:30:45.048] [exthost] [error] Error: selectionRange must be contained in fullRange
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:357:152)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:357:20)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:345:619)
+	at j (/home/am.lalwani/.vscode/extensions/redhat.java-0.53.1/dist/extension.js:1:549205)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/am.lalwani/.vscode/extensions/redhat.java-0.53.1/dist/extension.js:1:553411)
+	at module.exports.registerLanguageProvider.t.sendRequest.then.e (/home/am.lalwani/.vscode/extensions/redhat.java-0.53.1/dist/extension.js:1:95101)
+	at o (/home/am.lalwani/.vscode/extensions/vscjava.vscode-java-test-0.21.0/dist/extension.js:9:263120)
+	at /home/am.lalwani/.vscode/extensions/vscjava.vscode-java-test-0.21.0/dist/extension.js:9:263614
+[2020-08-10 23:31:11.849] [exthost] [error] [redhat.java] provider FAILED
+[2020-08-10 23:31:11.849] [exthost] [error] Error: DisposableStore is missing...
+	at R._convertCompletionItem (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:563:173)
+	at define.resolveCompletionItem.o.asPromise.then.e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:562:707)
+	at o (/home/am.lalwani/.vscode/extensions/vscjava.vscode-java-test-0.21.0/dist/extension.js:9:263120)
+	at /home/am.lalwani/.vscode/extensions/vscjava.vscode-java-test-0.21.0/dist/extension.js:9:263614
+[2020-08-10 23:31:11.864] [exthost] [error] [redhat.java] provider FAILED
+[2020-08-10 23:31:11.864] [exthost] [error] Error: DisposableStore is missing...
+	at R._convertCompletionItem (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:563:173)
+	at define.resolveCompletionItem.o.asPromise.then.e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:562:707)
+	at o (/home/am.lalwani/.vscode/extensions/vscjava.vscode-java-test-0.21.0/dist/extension.js:9:263120)
+	at /home/am.lalwani/.vscode/extensions/vscjava.vscode-java-test-0.21.0/dist/extension.js:9:263614
+[2020-08-11 00:02:18.137] [exthost] [error] [redhat.java] provider FAILED
+[2020-08-11 00:02:18.137] [exthost] [error] Error: DisposableStore is missing...
+	at R._convertCompletionItem (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:563:173)
+	at define.resolveCompletionItem.o.asPromise.then.e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:562:707)
+	at o (/home/am.lalwani/.vscode/extensions/vscjava.vscode-java-test-0.21.0/dist/extension.js:9:263120)
+	at /home/am.lalwani/.vscode/extensions/vscjava.vscode-java-test-0.21.0/dist/extension.js:9:263614
+[2020-08-11 00:02:18.647] [exthost] [error] [redhat.java] provider FAILED
+[2020-08-11 00:02:18.647] [exthost] [error] Error: DisposableStore is missing...
+	at R._convertCompletionItem (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:563:173)
+	at define.resolveCompletionItem.o.asPromise.then.e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:562:707)
+	at o (/home/am.lalwani/.vscode/extensions/vscjava.vscode-java-test-0.21.0/dist/extension.js:9:263120)
+	at /home/am.lalwani/.vscode/extensions/vscjava.vscode-java-test-0.21.0/dist/extension.js:9:263614
+[2020-08-11 00:03:05.728] [exthost] [error] [redhat.java] provider FAILED
+[2020-08-11 00:03:05.728] [exthost] [error] Error: DisposableStore is missing...
+	at R._convertCompletionItem (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:563:173)
+	at define.resolveCompletionItem.o.asPromise.then.e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:562:707)
+	at o (/home/am.lalwani/.vscode/extensions/vscjava.vscode-java-test-0.21.0/dist/extension.js:9:263120)
+	at /home/am.lalwani/.vscode/extensions/vscjava.vscode-java-test-0.21.0/dist/extension.js:9:263614
+[2020-08-11 00:06:21.991] [exthost] [error] [redhat.java] provider FAILED
+[2020-08-11 00:06:21.991] [exthost] [error] Error: selectionRange must be contained in fullRange
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:357:152)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:357:20)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:345:619)
+	at j (/home/am.lalwani/.vscode/extensions/redhat.java-0.53.1/dist/extension.js:1:549205)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/am.lalwani/.vscode/extensions/redhat.java-0.53.1/dist/extension.js:1:553411)
+	at module.exports.registerLanguageProvider.t.sendRequest.then.e (/home/am.lalwani/.vscode/extensions/redhat.java-0.53.1/dist/extension.js:1:95101)
+	at o (/home/am.lalwani/.vscode/extensions/vscjava.vscode-java-test-0.21.0/dist/extension.js:9:263120)
+	at /home/am.lalwani/.vscode/extensions/vscjava.vscode-java-test-0.21.0/dist/extension.js:9:263614
+[2020-08-11 00:11:57.899] [exthost] [error] [redhat.java] provider FAILED
+[2020-08-11 00:11:57.900] [exthost] [error] Error: The request (id: 2306, method: 'textDocument/hover') has been cancelled
+	at /home/am.lalwani/.vscode/extensions/redhat.java-0.53.1/dist/extension.js:1:68555
+	at /home/am.lalwani/.vscode/extensions/redhat.java-0.53.1/dist/extension.js:1:68849
+	at Immediate.module.exports.M.G.Y.size.setImmediate (/home/am.lalwani/.vscode/extensions/redhat.java-0.53.1/dist/extension.js:1:69210)
+	at runCallback (timers.js:694:18)
+	at tryOnImmediate (timers.js:665:5)
+	at processImmediate (timers.js:647:5)
+[2020-08-11 00:32:14.133] [exthost] [info] extension host started
+[2020-08-11 00:32:14.154] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2020-08-11 00:32:14.154] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/python/dist/pythonMain
+[2020-08-11 00:32:14.264] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2020-08-11 00:32:14.264] [exthost] [info] ExtensionService#loadCommonJSModule /home/am.lalwani/.vscode/extensions/ms-python.python-2019.10.41019/out/client/extension
+[2020-08-11 00:32:15.102] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"activationEvent":"onLanguage:python"}
+[2020-08-11 00:32:15.103] [exthost] [info] ExtensionService#loadCommonJSModule /home/am.lalwani/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.9/dist/intellicode
+[2020-08-11 00:32:15.324] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-08-11 00:32:15.324] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-08-11 00:32:15.347] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-08-11 00:32:15.347] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-08-11 00:32:15.425] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-08-11 00:32:15.425] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2020-08-11 00:32:15.602] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-08-11 00:32:15.602] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-08-11 00:32:15.611] [exthost] [info] ExtensionService#_doActivateExtension nrwl.angular-console {"startup":true,"activationEvent":"*"}
+[2020-08-11 00:32:15.611] [exthost] [info] ExtensionService#loadCommonJSModule /home/am.lalwani/.vscode/extensions/nrwl.angular-console-13.0.0/main.js
+[2020-08-11 00:32:16.637] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2020-08-11 00:32:16.637] [exthost] [info] ExtensionService#loadCommonJSModule /home/am.lalwani/.vscode/extensions/pkief.material-icon-theme-4.2.0/dist/extension
+[2020-08-11 00:32:17.524] [exthost] [info] eager extensions activated
+[2020-08-11 01:09:38.527] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2020-08-11 01:09:38.527] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-08-11 01:09:38.716] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2020-08-11 01:09:38.716] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-08-11 01:09:38.834] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2020-08-11 01:09:38.834] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension

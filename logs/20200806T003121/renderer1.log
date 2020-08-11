@@ -22,3 +22,34 @@
 	at runCallback (timers.js:694:18)
 	at tryOnImmediate (timers.js:665:5)
 	at processImmediate (timers.js:647:5)
+[2020-08-10 23:30:45.052] [renderer1] [error] selectionRange must be contained in fullRange: Error: selectionRange must be contained in fullRange
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:357:152)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:357:20)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:345:619)
+	at j (/home/am.lalwani/.vscode/extensions/redhat.java-0.53.1/dist/extension.js:1:549205)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/am.lalwani/.vscode/extensions/redhat.java-0.53.1/dist/extension.js:1:553411)
+	at module.exports.registerLanguageProvider.t.sendRequest.then.e (/home/am.lalwani/.vscode/extensions/redhat.java-0.53.1/dist/extension.js:1:95101)
+	at o (/home/am.lalwani/.vscode/extensions/vscjava.vscode-java-test-0.21.0/dist/extension.js:9:263120)
+	at /home/am.lalwani/.vscode/extensions/vscjava.vscode-java-test-0.21.0/dist/extension.js:9:263614
+[2020-08-11 00:06:22.001] [renderer1] [error] selectionRange must be contained in fullRange: Error: selectionRange must be contained in fullRange
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:357:152)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:357:20)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:345:619)
+	at j (/home/am.lalwani/.vscode/extensions/redhat.java-0.53.1/dist/extension.js:1:549205)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/am.lalwani/.vscode/extensions/redhat.java-0.53.1/dist/extension.js:1:553411)
+	at module.exports.registerLanguageProvider.t.sendRequest.then.e (/home/am.lalwani/.vscode/extensions/redhat.java-0.53.1/dist/extension.js:1:95101)
+	at o (/home/am.lalwani/.vscode/extensions/vscjava.vscode-java-test-0.21.0/dist/extension.js:9:263120)
+	at /home/am.lalwani/.vscode/extensions/vscjava.vscode-java-test-0.21.0/dist/extension.js:9:263614
+[2020-08-11 00:11:57.927] [renderer1] [error] The request (id: 2306, method: 'textDocument/hover') has been cancelled: Error: The request (id: 2306, method: 'textDocument/hover') has been cancelled
+	at /home/am.lalwani/.vscode/extensions/redhat.java-0.53.1/dist/extension.js:1:68555
+	at /home/am.lalwani/.vscode/extensions/redhat.java-0.53.1/dist/extension.js:1:68849
+	at Immediate.module.exports.M.G.Y.size.setImmediate (/home/am.lalwani/.vscode/extensions/redhat.java-0.53.1/dist/extension.js:1:69210)
+	at runCallback (timers.js:694:18)
+	at tryOnImmediate (timers.js:665:5)
+	at processImmediate (timers.js:647:5)
+[2020-08-11 01:32:19.979] [renderer1] [error] getaddrinfo ENOTFOUND default.exp-tas.com default.exp-tas.com:443: Error: getaddrinfo ENOTFOUND default.exp-tas.com default.exp-tas.com:443
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+[2020-08-11 11:27:39.607] [renderer1] [error] getaddrinfo ENOTFOUND default.exp-tas.com default.exp-tas.com:443: Error: getaddrinfo ENOTFOUND default.exp-tas.com default.exp-tas.com:443
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)

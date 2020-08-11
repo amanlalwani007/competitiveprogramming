@@ -16,19 +16,29 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>src/3sum.java</name>
+			<type>1</type>
+			<location>//home/am.lalwani/Desktop/competitiveprogramming/Arrays and Strings/3sum.java</location>
+		</link>
+		<link>
 			<name>src/OneAway.java</name>
 			<type>1</type>
-			<location>//home/am.lalwani/Desktop/competitiveprogramming/Arrays and Strings/OneAway.java</location>
+			<location>/home/am.lalwani/Desktop/competitiveprogramming/Arrays and Strings/OneAway.java</location>
+		</link>
+		<link>
+			<name>src/containerwithmaxcapacity.java</name>
+			<type>1</type>
+			<location>//home/am.lalwani/Desktop/competitiveprogramming/Arrays and Strings/containerwithmaxcapacity.java</location>
 		</link>
 		<link>
 			<name>src/leftandrightrotation.java</name>
 			<type>1</type>
-			<location>//home/am.lalwani/Desktop/competitiveprogramming/Arrays and Strings/leftandrightrotation.java</location>
+			<location>/home/am.lalwani/Desktop/competitiveprogramming/Arrays and Strings/leftandrightrotation.java</location>
 		</link>
 		<link>
 			<name>src/rotateimage.java</name>
 			<type>1</type>
-			<location>//home/am.lalwani/Desktop/competitiveprogramming/Arrays and Strings/rotateimage.java</location>
+			<location>/home/am.lalwani/Desktop/competitiveprogramming/Arrays and Strings/rotateimage.java</location>
 		</link>
 	</linkedResources>
 </projectDescription>

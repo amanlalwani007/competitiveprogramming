@@ -1,0 +1,25 @@
+[Info  - 12:32:27 AM] Analysis cache path: /home/am.lalwani/.cache/Microsoft/Python Language Server
+[Info  - 12:32:27 AM] Microsoft Python Language Server version 0.5.51.0
+[Info  - 12:32:27 AM] Workspace root: /home/am.lalwani/PycharmProjects/Basic
+[Info  - 12:32:28 AM] GetCurrentSearchPaths /usr/bin/python3 
+[Info  - 12:32:28 AM] Interpreter search paths:
+[Info  - 12:32:28 AM]     /usr/lib/python3.6
+[Info  - 12:32:28 AM]     /usr/lib/python3.6/lib-dynload
+[Info  - 12:32:28 AM]     /home/am.lalwani/.local/lib/python3.6/site-packages
+[Info  - 12:32:28 AM]     /usr/local/lib/python3.6/dist-packages
+[Info  - 12:32:28 AM]     /usr/lib/python3/dist-packages
+[Info  - 12:32:28 AM] User search paths:
+[Info  - 12:32:42 AM] Initializing for /usr/bin/python3
+[Info  - 12:32:42 AM] Analysis caching mode: None.
+[Info  - 1:09:39 AM] Analysis caching mode: None.
+[Info  - 1:09:41 AM] Analysis cache path: /home/am.lalwani/.cache/Microsoft/Python Language Server
+[Info  - 1:09:41 AM] Microsoft Python Language Server version 0.5.51.0
+[Info  - 1:09:41 AM] Workspace root: /home/am.lalwani/PycharmProjects/Basic
+[Info  - 1:09:41 AM] GetCurrentSearchPaths /home/am.lalwani/anaconda3/bin/python 
+[Info  - 1:09:41 AM] Interpreter search paths:
+[Info  - 1:09:41 AM]     /home/am.lalwani/anaconda3/lib/python3.7
+[Info  - 1:09:41 AM]     /home/am.lalwani/anaconda3/lib/python3.7/lib-dynload
+[Info  - 1:09:41 AM]     /home/am.lalwani/anaconda3/lib/python3.7/site-packages
+[Info  - 1:09:41 AM] User search paths:
+[Info  - 1:09:56 AM] Initializing for /home/am.lalwani/anaconda3/bin/python
+[Info  - 1:09:56 AM] Analysis caching mode: None.
