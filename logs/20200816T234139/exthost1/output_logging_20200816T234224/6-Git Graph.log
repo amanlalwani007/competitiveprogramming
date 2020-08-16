@@ -1,0 +1,8 @@
+[2020-08-16 23:42:24.403] Starting Git Graph ...
+[2020-08-16 23:42:24.546] Using git (version: 2.17.1)
+[2020-08-16 23:42:24.553] Started Git Graph - Ready to use!
+[2020-08-16 23:42:24.553] Searching workspace for new repos ...
+[2020-08-16 23:42:24.568] > git rev-parse --show-toplevel
+[2020-08-16 23:42:24.653] Added new repo: /home/am.lalwani/Desktop/competitiveprogramming
+[2020-08-16 23:42:24.746] Completed searching workspace for new repos
+[2020-08-16 23:42:24.746] Showing "Git Graph" Status Bar Item
