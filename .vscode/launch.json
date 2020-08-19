@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - java_version",
+            "request": "launch",
+            "mainClass": "java_version",
+            "projectName": "competitiveprogramming_75dc5b71"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - binaryexponent",
             "request": "launch",
             "mainClass": "binaryexponent"
